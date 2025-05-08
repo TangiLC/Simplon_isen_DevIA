@@ -4,6 +4,8 @@
 
 Ce repository a pour but de présenter les codes pour ma candidature à la formation **Simplon/ISEN : École IA Microsoft by Simplon**.
 
+Le dossier `certificats` rassemble des documents attestant de mes bases en informatique, language python, etc...
+
 ## Scripts SQL
 
 Le fichier `scripts.sql` présente différentes requêtes sur la base de données ventes.
