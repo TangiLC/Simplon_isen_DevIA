@@ -20,7 +20,7 @@ Décommenter (supprimer --) la ligne sélectionnée pour utiliser une requête.
 
 Le code de l'application Python est hébergé dans le sandbox Glitch :
 
-- Projet Glitch : [storm-fine-beetle](https://glitch.com/edit/#!/storm-fine-beetle?path=app.py%3A1%3A0)
+- Projet Glitch : [storm-fine-beetle](https://storm-fine-beetle.glitch.me/)
 
 Vous pouvez également exécuter l'application en local.
 
